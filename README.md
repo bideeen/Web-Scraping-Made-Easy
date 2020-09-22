@@ -6,7 +6,7 @@ The is a repository that aims to provide webscraping scirpt of all sort using pr
 
 ## Programming Libraries
 
-* [Python](http://github.com/lorien/web-scraping/blob/master/python.md)
+* [Python](https://github.com/bideeen/Python)
 
 ## Other Things
 
